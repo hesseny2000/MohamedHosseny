@@ -44,10 +44,9 @@ RHCSA | AWS | CCNA R&S | CCDA | CCNP R&S | CCDP | JNCDA | JNCIA |JNCIA-DEVOPS | 
   
   
   <p>
-    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hesseny2000&theme=dark&hide_border=true&fire=DD2727)](https://git.io/streak-stats)
     
-    ------------------------------------------------------------------------------
-    Languges and Tools 
+  ### :hammer_and_wrench: Languages and Tools :
+
     
     
 <div>
