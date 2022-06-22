@@ -5,15 +5,20 @@ Public Profile
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="400"/>
 </div>
 
-
+Contact Me : 
 <div id="badges">
   <a href="https://www.linkedin.com/in/mohamed-el-hosseny/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+ <P>
+  check My Channel: 
   <a href="https://www.youtube.com/c/Askhosseny">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/Eng_m_hosseny">
+  <p>
+    Follow me: 
+    
+    <a href="https://twitter.com/Eng_m_hosseny">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
