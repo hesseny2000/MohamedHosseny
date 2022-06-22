@@ -21,7 +21,6 @@ Contact Me :
   </a>
   <p>
     
-    </div>
  
   <div>
     Follow me: 
