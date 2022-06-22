@@ -14,14 +14,17 @@ Contact Me :
  <P>
   <div>
   check My Channel: 
+    <p>
   <a href="https://www.youtube.com/c/Askhosseny">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <p>
+    
     </div>
+ 
   <div>
     Follow me: 
-    
+  <p>  
     <a href="https://twitter.com/Eng_m_hosseny">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
