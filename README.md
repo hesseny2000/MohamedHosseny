@@ -1,5 +1,4 @@
 # MohamedHosseny
-Public Profile 
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="400"/>
@@ -10,6 +9,7 @@ Contact Me :
   <a href="https://www.linkedin.com/in/mohamed-el-hosseny/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <br>
  <P>
   check My Channel: 
   <a href="https://www.youtube.com/c/Askhosseny">
