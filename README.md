@@ -9,13 +9,17 @@ Contact Me :
   <a href="https://www.linkedin.com/in/mohamed-el-hosseny/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  </div>
   <br>
  <P>
+  <div>
   check My Channel: 
   <a href="https://www.youtube.com/c/Askhosseny">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <p>
+    </div>
+  <div>
     Follow me: 
     
     <a href="https://twitter.com/Eng_m_hosseny">
