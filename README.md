@@ -30,11 +30,11 @@ Contact Me :
   </a>
 </div>
 
-##NOC senior Engineer || Cloud consultant
+##Devops and Automation || Cloud consultant
 Hi My name's Mohamed Hosseny , computing and core Services Intersted engineer 
-working as Senior Operation network engineer in biggest Egyptian ISP 
-Over 11 years of experience and journey with Cisco Networking and Security, REDHAT enterprise servers, Microsoft Server, Virtualization, Cloud 
-As support engineer and IT core services instructor 
+working as Senior Devops and Automation engineer,
+Over 14 years of experience and journey with Cisco Networking and Security, REDHAT enterprise servers, Microsoft Server, Virtualization, Cloud 
+As Automation and Devops engineer and IT core services instructor 
 
 
 <p>
